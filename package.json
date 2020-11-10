@@ -1,0 +1,20 @@
+{
+  "name": "node-auth1-project",
+  "version": "1.0.0",
+  "description": "Use `Node.js`, `Express` and `Knex` to build an API that provides **Register** and **Login** functionality using `SQLite` to store _User_ information. Make sure the password is not stored as plain text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purplehays09/node-auth1-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purplehays09/node-auth1-project/issues"
+  },
+  "homepage": "https://github.com/purplehays09/node-auth1-project#readme"
+}
